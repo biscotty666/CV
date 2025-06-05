@@ -1,0 +1,111 @@
+---
+format: 
+  PrettyPDF-pdf: 
+    documentclass: scrartcl
+    papersize: letter
+    toc: true
+    colorlinks: true
+    number-sections: false
+    hyperrefoptions:
+      - linktoc=all
+      - pdfwindowui
+      - pdfpagemode=FullScreen
+    margin-left: .3in
+    margin-top: .3in
+    margin-bottom: .2in
+    margin-right: .2in
+    keep-tex: true
+---
+
+# Brian Carey
+
+Because of the unusual range of my professional experience, this document is quite long, and would be best viewed on-line at [my personal website](https://biscotty.online/cv/brian-carey.html).
+
+## Skills and Experiences
+
+I have an unusually diverse range of skills, knowledge and experience. From my first job as a stock boy at Kmart, where I was asked to join the Point of Sale implementation team at the store, later traveling to other stores as part of the corporate team, most of my experience revolves around the themes of new technology, process development and teaching.
+
+I am project-oriented. In every professional role I've held, I have had to address challenges which required the development and introduction of new processes and technologies. Once things are running smoothly, or goals have been met, I'm ready to move on.
+
+With the exception of Chinese Medicine and foreign languages, I have had no formal education in any of these topics, but over this time, I've acquired various knowledge and skills, including.
+
+-   strong, disciplined programming for[^1]
+-   deep knowledge of financial processes[^2]
+-   education in various settings and topics[^3]
+-   language and linguistics[^4]
+-   broad industry knowledge across various domains[^5]
+
+[^1]: Python, R, JavaScript, Haskell, Perl
+
+[^2]: Including international complex corporate structures
+
+[^3]: College professor, writer, conducted internal trainings, workshops
+
+[^4]: I speak English, French, Spanish and Italian. I have studied Russian, Chinese, Yoruba and Egyptian hieroglyphics
+
+[^5]: corporate, academic, non-profit
+
+::: panel-tabset
+### Finance and Administration
+
+{{< include _fna.qmd >}}
+
+### Technology
+
+{{< include _tech.qmd >}}
+
+### Education
+
+{{< include _edu.qmd >}}
+
+### Languages and Linguistics
+
+I am interested in linguistic studies including, but not limited to, human languages.
+
+Regarding human languages, I am particularly interested, for example in the distinctions between dialects and languages, and in the ways genetic testing and linguistics can be used to trace human migration. Personally, I speak English and French fluently, and am proficient in Spanish and Italian. I have studied, but am not conversational in, German, Russian, Chinese, Yoruba and Egyptian heiroglyphics.
+
+I speak Python and R with ease, and am proficient in Haskell and JavaScript. I have programmed in Perl, and have a working knowledge of Rust. Linguistically, I am interested in functional programming versus imperative programming, and in the linguistic borrowings between languages, Python's increasing inclusion of functional paradigms being an example.
+
+I am also interested in non-linguistic fields which have strong linguistic aspects. In particular, as a former professor of Chinese Herbal Medicine, I think that a didactic approach which recognizes the linguistic aspects of the field would be beneficial. I'm writing about it [here](../posts/chinese-medicine/chinese-herbal-language/index.qmd)
+:::
+
+## Vignettes
+
+### Databases {#paradox}
+
+{{< include vignettes/paradox/index.qmd >}}
+
+### Closing the books {#closing-the-books}
+
+{{< include vignettes/closing-the-books/index.qmd >}}
+
+### Running a medical clinic {#clinic}
+
+{{< include vignettes/clinic/index.qmd >}}
+
+### Teaching complex topics {#herb-class}
+
+{{< include vignettes/chinese-herb-class/index.qmd >}}
+
+### Harmonizing processes {#forecasting}
+
+{{< include vignettes/collective-forecasting/index.qmd >}}
+
+### Motivating change {#change}
+
+{{< include vignettes/motivating-change/index.qmd >}}
+
+### Explaining technology {#swiss-plan}
+
+{{< include vignettes/swiss-business-plan/index.qmd >}}
+
+### Managing external partners {#vendors}
+
+{{< include vignettes/vendor-management/index.qmd >}}
+
+### Negotiation {#negotiation}
+
+{{< include vignettes/win-win-negotiation/index.qmd >}}
+
+
+
