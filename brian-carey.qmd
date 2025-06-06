@@ -3,7 +3,7 @@ format:
   PrettyPDF-pdf: 
     documentclass: scrartcl
     papersize: letter
-    toc: true
+    toc: false
     colorlinks: true
     number-sections: false
     hyperrefoptions:
@@ -22,6 +22,14 @@ format:
 I am project and task oriented. I enjoy solving problems with creative processes and technological soluctions. I like introducing new technolgy through writing or workshops. While I work well independently, I enjoy working on teams in collaborative environments. I am an unusually fast learner, whether it is new tools or understanding the challenges of a client.
 
 Because of the unusual diversity of my professional experience, this document is quite long, and would be best viewed on-line at [my personal website](https://biscotty.online/cv/brian-carey.html).
+
+```{=latex}
+{
+\hypersetup{linkcolor=blue}
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+```
 
 ## Skills and Experiences
 
@@ -47,7 +55,7 @@ With the exception of Chinese Medicine and foreign languages, I have had no form
 
 [^5]: corporate, academic, non-profit
 
-::: panel-tabset
+
 ### Finance and Administration
 
 {{< include _fna.qmd >}}
@@ -69,7 +77,6 @@ Regarding human languages, I am particularly interested, for example in the dist
 I speak Python and R with ease, and am proficient in Haskell and JavaScript. I have programmed in Perl, and have a working knowledge of Rust. Linguistically, I am interested in functional programming versus imperative programming, and in the linguistic borrowings between languages, Python's increasing inclusion of functional paradigms being an example.
 
 I am also interested in non-linguistic fields which have strong linguistic aspects. In particular, as a former professor of Chinese Herbal Medicine, I think that a didactic approach which recognizes the linguistic aspects of the field would be beneficial. I'm writing about it [here](../posts/chinese-medicine/chinese-herbal-language/index.qmd)
-:::
 
 ## Vignettes
 
