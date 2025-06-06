@@ -10,7 +10,7 @@ As the Worldwide Vendor Manager for localization services at Autodesk, negotiati
 
 Here I will briefly describe a high-stakes negotiation I led, and then describe how I approached this difficult situation.
 
-## Background {.unnumbered .unlisted}
+#### Background
 
 Autodesk was flying high after the twelfth release of its flagship product AutoCAD, which had reinforced its dominant position in the computer aided design space. I was working in Europe during the release of the subsequent R13. It was a pretty disastrous release cycle in many ways, beginning upstream, and upstream chaos multiplies downstream as the product is localized into multiple languages. Most of the localization work for Europe was done by a single vendor, which was one of the few large-scale vendors, operating out of London at the time.
 

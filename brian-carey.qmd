@@ -17,11 +17,11 @@ format:
     keep-tex: true
 ---
 
-# Brian Carey
+# Brian Carey, MS, DOM (ret.)
 
-I am project and task oriented. I enjoy solving problems with creative processes and technological soluctions. I like introducing new technolgy through writing or workshops. While I work well independently, I enjoy working on teams in collaborative environments. I am an unusually fast learner, whether it is new tools or understanding the challenges of a client.
+I am project and task oriented. I enjoy solving problems with creative processes and technological soluctions. I like introducing new technolgy through writing or workshops. While I work well independently, I enjoy working on teams in collaborative environments. I am an unusually fast learner, whether it is new tools or understanding the challenges of a client, and all of my skills, except those medical, were acquired on the job.
 
-Because of the unusual diversity of my professional experience, this document is quite long, and would be best viewed on-line at [my personal website](https://biscotty.online/cv/brian-carey.html).
+Because of the unusual diversity of my professional experience, this document is quite long, and would be best viewed on-line at [my personal website](https://biscotty.online/cv/brian-carey.html) where it can be easily searched.
 
 ```{=latex}
 {
@@ -84,33 +84,49 @@ I am also interested in non-linguistic fields which have strong linguistic aspec
 
 {{< include vignettes/paradox/index.qmd >}}
 
+---
+
 ### Closing the books {#closing-the-books}
 
 {{< include vignettes/closing-the-books/index.qmd >}}
+
+---
 
 ### Running a medical clinic {#clinic}
 
 {{< include vignettes/clinic/index.qmd >}}
 
+---
+
 ### Teaching complex topics {#herb-class}
 
 {{< include vignettes/chinese-herb-class/index.qmd >}}
+
+---
 
 ### Harmonizing processes {#forecasting}
 
 {{< include vignettes/collective-forecasting/index.qmd >}}
 
-### Motivating change {#change}
+---
+
+### Motivating Change {#change}
 
 {{< include vignettes/motivating-change/index.qmd >}}
+
+--- 
 
 ### Explaining technology {#swiss-plan}
 
 {{< include vignettes/swiss-business-plan/index.qmd >}}
 
+---
+
 ### Managing external partners {#vendors}
 
 {{< include vignettes/vendor-management/index.qmd >}}
+
+---
 
 ### Negotiation {#negotiation}
 

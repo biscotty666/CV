@@ -6,9 +6,6 @@ keywords:
  - Financial
 ---
 
----
-
-
 When I assumed responsibility for all localization vendors at Autodesk, it was the first time the role had been centralized. Prior to this time, vendors were selected by project teams through an *ad hoc* process. Some groups approached the selection methodically, but most were chosen for vague reasons and, frankly, familiarity. Even when things go badly, there is a strong natural tendency to stick with the devil you know.
 
 Of course, there were numerous problems with this approach. First, there were significant pricing inconsistencies, due both to lack of real competition and variations in terms for pricing across proposals. Additionally, expectations of vendor responsibilities varied from team to team, which led to confusion when one vendor worked on multiple projects. Project budgets and forecasts were difficult to prepare, and vendor costs varied significantly from project to project.

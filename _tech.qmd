@@ -6,7 +6,7 @@ toc: false
 
 I've been engaged with computers since I started learning BASIC on a Commodore64 in the 1970s. Since then, the universe of computing has exploded, and I have remained constantly engaged with emerging technologies, learning new languages, operating systems, database systems, web applications, and more. Most of my work over the past few years is available in my [GitHub repository](https://github.com/biscotty666). If you have questions or want details you can send me an [email](mailto:biscotty666@gmail.com).
 
-#### Linux
+### Linux
 
 Using Linux I have run web servers and web apps, done system administration, programming in half a dozen languages, managed databases and APIs, built custom kernels, and many other things including day-to-day desktop applications. The answer to the common question "How do I learn Linux?" is simply "use it".
 
@@ -16,35 +16,35 @@ I spent a year each with Debian and Ubuntu, and stuck with Fedora for a while af
 
 Currently I run NixOS, a Linux entirely different in design than all of the others, based on graph storage for packages rather than relying on the FHS, and which is configured with a functional programming language. I have a number of articles on this site about why this is good and a major advance for Linux systems.
 
-#### Programming
+### Programming
 
 I began programming 40 years ago, and have learned and used many languages, including functional ones.
 
-**Python**
+#### Python
 
 My strongest language, I have used it for data science with the pandas/numpy ecosystem, web sites and applications in the Django framework, hosting APIs, and writing discord bots. I am comfortable with most of the advanced features, many having been ported from functional programming, which I also know. There are many examples of Python here on the site.
 
-**R**
+#### R
 
 The first language I used for data science, and still my preferred for data science work. The "pipe" paradigm in particular allows for natural expression and clear workflows, and `ggplot2` is fantastic. Using R is like using a tool very much fit-to-purpose. 
 
-**Haskell**
+#### Haskell
 
 I learned Haskell in order to understand functional programming, and stuck with it because I found it to be perhaps the best language I have used. My experience here is purely academic, beyond designing a web site, and I would rate my skills as intermediate
 
-**JavaScript**
+#### JavaScript
 
 I have used JavaScript primarily via frameworks including React/React Router, Svelte/Sveltekit and NextJS, as well as NodeJS. Beyond using it for websites and apps, my first data visualization projects used D3 with React and later Svelte. Examples can be found in my [repository](https:github.com/biscotty666).
 
-**Perl**
+#### Perl
 
 I learned Perl and CGI to design a browser-based, application for the local public schools. This was prior to JavaScript becoming dominant in web applications.
 
-**Other**
+#### Other
 
 My first programming job used Clipper, a dBase variant, in which I wrote a scheduling module for a chain of learning centers. The only computer class I ever took was in Pascal. I have a general knowledge of Rust.
 
-#### Data Science
+### Data Science
 
 I have been working with data analysis and modeling for two years, with a focus on geospatial applications. I am comfortable working in both R and Python, and am thoroughly familiar with a wide range of libraries and modules.
 
@@ -52,22 +52,21 @@ My primary focus is on comparative demographic and structural analysis such as i
 
 I'm currently writing a [series](../posts/data-science/r-gpx-mapping/trail-mapping-with-r/index.qmd) comparing the use of R and Python for working with GPS data.
 
-#### Other
+### Other
 
-**Databases**
+#### Databases
 
 Comfortable with database design and interaction with relational databases including PostgreSQL, mariadb, and Sqlite. For example, I designed a system in Paradox to process raw shipping data into consolidated sales and unit reports, and a system in PostgreSQL to process testing data. I have used PostgreSQL for big data, and have also worked with non-relational databases.
 
-$LaTeX$
+#### $LaTeX$
 
 I have used $LaTeX$ for many purposes, including designing a [3 semester course](vignettes/chinese-herb-class/index.qmd) covering over 1,000 medicinal substances.
 
-
-**HTML/CSS**
+#### HTML/CSS
 
 I am comfortable and proficient in both, although CSS is changing so fast it is hard to keep up.
 
-**Multimedia**
+#### Multimedia
 
 I work with GIMP, Krita, Inkscape, Audacity, Openshot and OBS Studio.
 

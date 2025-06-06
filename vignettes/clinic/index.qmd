@@ -6,6 +6,7 @@ keywords:
   - Chinese Medicine
 subject: Running a Chinese Medicine clinic
 author: Brian Carey
+keep-tex: true
 ---
 
 For most of the 20 years I practiced Chinese Medicine, I owned and operated a private clinic which served around 40 clients per week. As a Doctor of Oriental Medicine, I administered both acupuncture and herbal therapy. Therapeutic massage was also offered.
